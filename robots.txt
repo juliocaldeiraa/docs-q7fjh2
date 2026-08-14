@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-sg5e8t.hartawin.space/sitemap.xml
